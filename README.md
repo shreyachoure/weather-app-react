@@ -1,5 +1,9 @@
 # Weather Application developed in React with Tailwind CSS and OpenWeatherMap, Unsplash Integration
 
+# Deployed Application
+The Current Weather application is hosted on AWS using Amplify. You can access the deployed application on below link.
+https://main.d1rjpayquo8lk6.amplifyapp.com/
+
 # Overview
 This is a simple Current Weather application developed using Vite and React. It allows users to quickly check the current weather conditions for a specific location.
 
